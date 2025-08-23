@@ -99,3 +99,7 @@ Conclusion :-
 The Chatbot Using Natural Language Processing project demonstrates the process of developing an intelligent conversational system capable of answering user queries. By applying preprocessing techniques, intent detection, and response generation, the chatbot mimics human-like interaction and provides meaningful responses. The project highlights the effective use of Python’s NLP libraries and showcases their role in real-world applications such as customer service, education, and business communication.
 
 This implementation serves as both a learning experience in natural language processing and a practical demonstration of how chatbots are designed, developed, and deployed for user interaction.
+
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/ff92a7eb-b27d-4407-b090-14497555f7b6)
