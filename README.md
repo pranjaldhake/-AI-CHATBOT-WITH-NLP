@@ -64,35 +64,35 @@ Deliverables :-
 
 The final project deliverables include:
 
-A Python script implementing the chatbot using NLP libraries (NLTK or spaCy).
+    A Python script implementing the chatbot using NLP libraries (NLTK or spaCy).
 
-A working chatbot capable of taking user input, processing it, and generating appropriate responses in real-time.
+    A working chatbot capable of taking user input, processing it, and generating appropriate responses in real-time.
 
-The chatbot can be run in a terminal or command-line environment, or integrated into a simple graphical user interface (GUI) or web application for better usability.
+    The chatbot can be run in a terminal or command-line environment, or integrated into a simple graphical user interface (GUI) or web application for better usability.
 
 Applications :-
 
  Chatbots built with NLP are widely applicable in real-world scenarios. Some common applications include:
 
- Customer Support: Automating responses to frequently asked questions.
+    Customer Support: Automating responses to frequently asked questions.
 
- Education: Assisting students with answers to subject-related queries.
+    Education: Assisting students with answers to subject-related queries.
 
- Healthcare: Providing general information or appointment booking assistance.
+    Healthcare: Providing general information or appointment booking assistance.
 
- Business: Offering product details, service inquiries, or sales assistance.
+    Business: Offering product details, service inquiries, or sales assistance.
 
- Entertainment: Engaging users in casual conversation.
+    Entertainment: Engaging users in casual conversation.
 
 Advantages of the Project :-
 
-  Provides hands-on experience with NLP libraries (NLTK/spaCy).
+    Provides hands-on experience with NLP libraries (NLTK/spaCy).
 
-  Demonstrates practical implementation of text preprocessing, intent recognition, and response generation.
+    Demonstrates practical implementation of text preprocessing, intent recognition, and response generation.
 
-  Can be extended by integrating external APIs for advanced capabilities.
+    Can be extended by integrating external APIs for advanced capabilities.
 
-  Encourages problem-solving skills and creativity in designing conversations.
+    Encourages problem-solving skills and creativity in designing conversations.
 
 Conclusion :-
 
